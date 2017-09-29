@@ -5,7 +5,7 @@
       "id": "std",
       "title": "標準地図",
       "iconUrl": "",
-      "url": "https://suncoh.github.io/gsimaps/image/{z}/{x}/{y}.png",
+      "url": "https://suncoh.github.io/gsimaps/image/170930/{z}/{x}/{y}.png",
       "subdomains": "",
       "attribution": "",
       "cocotile": true,
